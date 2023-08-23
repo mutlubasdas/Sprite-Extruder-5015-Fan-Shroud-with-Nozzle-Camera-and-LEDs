@@ -6,7 +6,7 @@ Since I was making my own, I thought I make it a bit extra.
 
 I always wanted to have a nozzle cam so I designed the shroud around it.
 
-I'm using a OV5640 camera with autofocus, since that has a smaller package. The video is stable, I'm not getting any flickering, maybe I just got lucky with it :)
+I'm using a [OV5640 camera]([url](https://www.aliexpress.us/item/3256804790797706.html?spm=a2g0o.order_list.order_list_main.21.7e001802xt1yaI&gatewayAdapt=glo2usa)) with autofocus, since that has a smaller package. The video is stable, I'm not getting any flickering, maybe I just got lucky with it :)
 
 The focal length is more than 20mm with this camera so I used this macro lens to achieve the shooting distance required! I cut it down the same size of the camera and just placed it in front of it, it sits just well because left some clearance for it in the model. Shoutout to chilicoke for finding that macro lens. He has an awesome video for his own Voron nozzle camera mod.
 
