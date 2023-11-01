@@ -8,7 +8,11 @@ I always wanted to have a nozzle cam so I designed the shroud around it.
 
 I'm using a [OV5640 camera](https://www.aliexpress.us/item/3256804790797706.html?spm=a2g0o.order_list.order_list_main.21.7e001802xt1yaI&gatewayAdapt=glo2usa) with autofocus, since that has a smaller package. The video is stable, I'm not getting any flickering, maybe I just got lucky with it :)
 
-The focal length is more than 20mm with this camera so I used this [macro lens](https://www.amazon.com/gp/product/B08MFSDZB8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to achieve the shooting distance required! I cut it down the same size of the camera and just placed it in front of it, it sits just well because left some clearance for it in the model. Shoutout to [chilicoke](https://github.com/chilicoke) for finding that macro lens. He has an awesome [video](https://www.youtube.com/watch?v=GAp23w_dnNc&t=65s) for his own Voron nozzle camera mod.
+The focal length is more than 20mm with this camera so I used this [macro lens](<a target="_blank" href="https://www.amazon.com/gp/product/B08MFSDZB8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=mutlubasdas-20&linkCode=ur2&linkId=f22b1fc7c615d37a6f80547c43c54824&camp=1789&creative=9325">Blips Macro Plus Lens</a>)* to achieve the shooting distance required! I cut it down the same size of the camera and just placed it in front of it, it sits just well because left some clearance for it in the model. Shoutout to [chilicoke](https://github.com/chilicoke) for finding that macro lens. He has an awesome [video](https://www.youtube.com/watch?v=GAp23w_dnNc&t=65s) for his own Voron nozzle camera mod.
+
+   * I know this item has been out of stock but the seller on amazon said they'll restock in     October 2023.
+
+    * Just checked today (11/1/23) and it's in stock right now. And created an affiliate link for the item.
 
 There's a bracket next to the fan for the camera PCB. I used [M1.6 heatset](https://www.aliexpress.us/item/3256804538587668.html?spm=a2g0o.order_detail.order_detail_item.3.484df19cw1qEP4&gatewayAdapt=glo2usa) insert and screws to mount it.
 
